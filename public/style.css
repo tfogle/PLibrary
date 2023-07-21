@@ -1,0 +1,57 @@
+.border {
+  border-style: solid;
+  border-width: 2px;
+  margin: 10px;
+  border-color: grey silver grey silver;
+}
+
+#sampleui {
+  max-width: 450px;
+  margin-left: 5%;
+  height: 100%;
+  margin: auto;
+  width: 50%;
+  
+}
+
+#sampleposting {
+  max-width: 450px;
+  text-align: center;
+  margin-left: 5%;
+  margin: auto;
+  width: 50%;
+}
+
+h2 {
+  margin: auto;
+  width: 50%;
+}
+
+#userstories {
+  margin-left: 5%;
+}
+
+form {
+  padding: 5px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input, button {
+  margin-bottom: 5px;
+  height: 27px;
+  background-color: #54c7b4;
+  border-radius: 3px;
+}
+
+
+
+body {
+  text-align: center;
+  background-color: #d6e67e;
+  font-family: arial;
+}
+
